@@ -10,7 +10,7 @@ namespace EmpWageCompPrblm3
     {
         static void Main(string[] args)
         {
-            Console.ReadLine("Welcome to Emp Wage Comp Problem-3");
+            Console.WriteLine("Welcome to Emp Wage Comp Problem-3");
         }
     }
 }
